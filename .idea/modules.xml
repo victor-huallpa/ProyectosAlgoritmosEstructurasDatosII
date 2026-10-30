@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RutaMasCorta.iml" filepath="$PROJECT_DIR$/RutaMasCorta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EDA2.iml" filepath="$PROJECT_DIR$/.idea/EDA2.iml" />
     </modules>
   </component>
 </project>
